@@ -13,7 +13,7 @@ I'm a  full stack web developer specialized in MERN stack, passionate about codi
 ![image](https://camo.githubusercontent.com/275811cb92958092034ab13e5d70f511fe52c4f1af9e8bbaa475bccf2a88829e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f64622d6d6f6e676f64622d627269676874677265656e)
 
 
-![image](https://img.freepik.com/free-vector/programmer-hacker-bedroom-with-computer_107791-2872.jpg?size=626&ext=jpg&ga=GA1.2.1382233244.1650354116)
+   ![image](https://img.freepik.com/free-vector/programmer-hacker-bedroom-with-computer_107791-2872.jpg?size=626&ext=jpg&ga=GA1.2.1382233244.1650354116)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,4 +21,10 @@ I'm a  full stack web developer specialized in MERN stack, passionate about codi
 - 📫 How to reach me: sainikartik82@gmail.com and on discord - Śoul#6625
 - 😄 Pronouns: ...
 - 🥅 2022 Goals : Learning new things and contribute more
+
+🔗 Connect with me:
+<br/>
+[![website](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/kartik-saini-64835a233/)
+[![website](https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](sainikartik82@gmail.com)
+
 
