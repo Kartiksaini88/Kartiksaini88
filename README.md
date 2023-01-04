@@ -18,7 +18,7 @@
 <br/>
 - 💬 Ask me about React , JavaScript , Mongodb 
  <br/>
-- 🥅 2022 Goals : Learning new things and contribute more
+- 🥅 2023 Goals : Learning new things and contribute more
 
 <br/>
 
